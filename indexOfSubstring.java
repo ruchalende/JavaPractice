@@ -1,7 +1,7 @@
 //finding index of substring if present in another string
 import java.util.Scanner;
 import java.util.*;
-public class Main
+public class indexOfSubstring
 {
 	public static void main(String[] args) {
 		String str1, str2;

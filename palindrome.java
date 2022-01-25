@@ -1,7 +1,7 @@
 //to check if string is palindrome or not
 import java.util.Scanner;
 import java.util.*;
-public class Main
+public class palindrome
 {
 	public static void main(String[] args) {
 		String str;

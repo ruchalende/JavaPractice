@@ -1,6 +1,6 @@
 import java.util.Scanner;
 
-public class Challenge {
+public class quadraticNumberOfSolutions {
 	public static int solutions(int a, int b, int c) {
 		int solution=0;
 		int exp=(b*b) - (4*a*c);

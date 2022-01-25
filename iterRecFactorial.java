@@ -2,7 +2,7 @@
 import java.util.Scanner;
 import java.util.*;
 
-public class Main {
+public class iterRecFactorial {
     public static void main(String[] args) {
         Scanner s=new Scanner(System.in);
         int num;

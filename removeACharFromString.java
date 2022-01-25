@@ -1,7 +1,7 @@
 //to remove any given character in a string
 import java.util.Scanner;
 import java.util.*;
-public class Main
+public class removeACharFromString
 {
 	public static void main(String[] args) {
 		String str;

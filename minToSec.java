@@ -1,7 +1,7 @@
 //converting minutes to seconds
 
 import java.util.Scanner;
-public class Challenge {
+public class minToSec {
 	public static int convert(int minutes) {
 		int seconds=0;
 		seconds=minutes*60;

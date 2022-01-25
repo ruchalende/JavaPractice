@@ -3,7 +3,7 @@
 import java.util.Scanner;
 import java.util.Arrays;
 
-public class Main
+public class triplets
 {
     static int triplets(int[] a, int n)
     {

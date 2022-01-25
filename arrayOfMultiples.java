@@ -2,7 +2,7 @@
 
 import java.util.*;
 
-public class Program {
+public class arrayOfMultiples{
 	public static int[] arrayOfMultiples(int num, int length) {
 		int[] arr = new int[length];
 		arr[0]=num;
